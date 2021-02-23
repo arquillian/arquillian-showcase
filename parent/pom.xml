@@ -36,7 +36,7 @@
     <version.jbossas_7>7.1.1.Final</version.jbossas_7>
     <version.jbossas_server_manager>1.0.3.GA</version.jbossas_server_manager>
     <version.jersey>1.6</version.jersey>
-    <version.jetty>8.0.0.M3</version.jetty>
+    <version.jetty>11.0.1</version.jetty>
     <version.jsfunit>2.0.0.Beta3-SNAPSHOT</version.jsfunit>
     <version.junit>4.8.1</version.junit>
     <version.log4j>1.2.14</version.log4j>
