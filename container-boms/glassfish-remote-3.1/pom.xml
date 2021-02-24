@@ -24,7 +24,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-initialcontext</artifactId>
-      <version>1.0.0.CR1</version>
+      <version>1.7.0.Alpha8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
